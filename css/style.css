@@ -1,0 +1,65 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #EBEBEB;
+    padding-top: 30px;
+    color: #BEBEBE;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background-color: #FFFFFF;
+    text-align: center;
+    width: 45%;
+    margin:auto;
+    margin-bottom: 25px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+}
+
+.tim {
+    border-radius: 50%;
+    border: solid 3px #959595;
+    margin-top: 15px;
+}
+
+h1 {
+    color: 	#DC5756;
+}
+
+#intro {
+    text-align: justify;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+#wiki {
+    background-color: #ca5752;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+nav {
+    background-color: #FFFFFF;
+    text-align: center;
+    width: 45%;
+    margin:auto;
+    border-radius: 5px;
+}
+
+.article {
+    background-color: #FFFFFF;
+    width: 45%;
+    margin:auto;
+    border-radius: 5px;
+}
