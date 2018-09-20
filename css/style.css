@@ -34,21 +34,21 @@ h1 {
 
 #intro {
     text-align: justify;
-    margin-left: 8%;
-    margin-right: 8%;
+    margin-left: 6%;
+    margin-right: 6%;
     margin-bottom: 4%;
 }
 
 #wiki {
-    background-color: #ca5752;
+    background-color: #d8615a;
     color: white;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
     padding-top: 8px;
     padding-bottom: 8px;
     border-radius: 5px;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 17px;
 }
 
 a{
@@ -101,7 +101,7 @@ ul i {
 
 /*end of logo navigation section, start of article*/
 
-.article {
+main {
     background-color: #FFFFFF;
     width: 45%;
     margin:auto;
@@ -111,16 +111,16 @@ ul i {
     border-bottom: solid #D3D3D3 3px;
 }
 
-.article h2 {
+main h2 {
     text-align: center;
     padding-top: 5%;
 }
 
-.article table {
+main table {
     width: 94%;
     margin: auto;
     border-collapse: separate;
-    border-spacing: 15px 50px;
+    border-spacing: 15px 30px;
 }
 
 #odissea {
@@ -138,13 +138,19 @@ ul i {
     max-height: 200px
 }
 
+td p {
+    text-align: justify;
+    line-height: 33px;
+}
+
 .row1 td h3 {
+    margin-top: 20px;
     text-align: center;
 }
 
 .row1 td p {
-    margin-top: 65px;
-    padding-bottom: 30px;
+    margin-top: 35px;
+    padding-bottom: 15px;
 }
 
 .row2 td h3 {
@@ -153,11 +159,11 @@ ul i {
 }
 
 .row2 td p {
-    padding-top: 40px;
+    padding-top: 20px;
 }
 
 .row3 td h3 {
     margin-top: 0%;
-    padding-bottom: 20px;
+    
     text-align: center;
 }
